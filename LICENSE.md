@@ -1,4 +1,4 @@
-# 
+# smart MindManager for Windows Workflow | drag-and-drop + task-integration offers the most advanced MindManager for Windows workflow, with drag-and-drop and task-integration. Ideal
 
 
 
